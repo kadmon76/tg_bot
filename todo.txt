@@ -1,0 +1,11 @@
+todo list for telegram bot 
+
+
+
+
+
+
+
+##################----ideas-----#######
+save and catalog all videos entrys, find a system to save all and a way to retrive it
+# reg playlist needs to read playlist number from list of playlists and send to telegram
